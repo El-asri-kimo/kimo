@@ -1,87 +1,174 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Aniplus.id",ANIPLUS HD
-http://43.252.237.182:8000/play/1
-#EXTINF:-1 tvg-id="AXNHD.MACAN",AXN HD
-http://43.252.237.182:8000/play/3
-#EXTINF:-1,Animal Planet
-http://43.252.237.182:8000/play/a00c
-#EXTINF:-1 tvg-id="Animax.MACAN",Animax HD
-http://43.252.237.182:8000/play/2
-#EXTINF:-1 tvg-id="ANTV.MACAN",Antv
-http://43.252.237.182:8000/play/a00r
-#EXTINF:-1,Bein 1 ID
-http://43.252.237.182:8000/play/a010
-#EXTINF:-1,Bein 1 True
-http://43.252.237.182:8000/play/a00d
-#EXTINF:-1,Bein 2 ID
-http://43.252.237.182:8000/play/a011
-#EXTINF:-1,Bein 2 True
-http://43.252.237.182:8000/play/a00e
-#EXTINF:-1,Bioskop Indonesia
-http://43.252.237.182:8000/play/a00t
-#EXTINF:-1 tvg-id="BlueAntEntertainment.id",Blue Ant Ent
-http://43.252.237.182:8000/play/4
-#EXTINF:-1 tvg-id="BlueAntExtreme.id",Blue Ant Ext
-http://43.252.237.182:8000/play/a014
-#EXTINF:-1,Boomerang
-http://43.252.237.182:8000/play/a00q
-#EXTINF:-1 tvg-id="CelestialMovies.MACAN",Celestial Movies
-http://43.252.237.182:8000/play/a00f
-#EXTINF:-1,Discovery Channel
-http://43.252.237.182:8000/play/a00o
-#EXTINF:-1,Discovery Science
-http://43.252.237.182:8000/play/a012
-#EXTINF:-1,Dreamwork
-http://43.252.237.182:8000/play/a00x
-#EXTINF:-1,Dunia Anak
-http://43.252.237.182:8000/play/a00u
-#EXTINF:-1,Dunia Lain
-http://43.252.237.182:8000/play/a00v
-#EXTINF:-1,FOX
-http://43.252.237.182:8000/play/a00g
-#EXTINF:-1,Fail Army
-http://43.252.237.182:8000/play/a00h
-#EXTINF:-1 tvg-id="GEMChannel.id",GEM HD
-http://43.252.237.182:8000/play/a001
+#EXTINF:-1,SABC 1
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/55
+#EXTINF:-1,ZA: SABC Sport HD
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/116
+#EXTINF:-1,AXN
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/174
+#EXTINF:-1,HBO HD
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/183
+#EXTINF:-1,ZA: SuperSport Premier League HD
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/197
+#EXTINF:-1,DSTV: SUPERSPORTS 11 HD
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/208
+#EXTINF:-1,DSTV: SUPERSPORTS 9 HD
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/209
+#EXTINF:-1,DSTV: SUPERSPORT GOLF
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/216
+#EXTINF:-1,DSTV: SUPERSPORT GRANDSTAND
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/217
+#EXTINF:-1,DSTV: SUPERSPORT MOTORSPORT
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/219
+#EXTINF:-1,DSTV: SUPERSPORT RUGBY
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/223
+#EXTINF:-1,DSTV: SUPERSPORT VARIETY 2
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/226
+#EXTINF:-1,DSTV: SUPERSPORT VARIETY 4
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/228
+#EXTINF:-1,ZA: SuperSport Blitz HD
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/229
+#EXTINF:-1,E.tv MOVIES 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/180
+#EXTINF:-1,MOJALOVE
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/173
+#EXTINF:-1,MAZNSI MAGIC 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/236
+#EXTINF:-1,BEIN SPORTS AR 1
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/133
+#EXTINF:-1,BEIN SPORTS AR 2
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/132
+#EXTINF:-1,BEIN SPORTS AR 3
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/131
+#EXTINF:-1,BEIN HD 1
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/120
+#EXTINF:-1,BEIN HD 2
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/118
+#EXTINF:-1,BEIN HD 3
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/115
+#EXTINF:-1,BEIN HD 4
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/114
+#EXTINF:-1,BEIN  HD 5
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/113
+#EXTINF:-1,BEIN  HD 6
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/111
+#EXTINF:-1,BEIN HD 7
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/105
+#EXTINF:-1,BT Sports 1
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/175
+#EXTINF:-1,ELEVEN SPORTS 2
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/126
+#EXTINF:-1,ELEVEN+ SPORTS 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/97
+#EXTINF:-1,ELEVEN SPORTS 1
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/96
+#EXTINF:-1,PREMIER SPORTS 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/77
+#EXTINF:-1,WWE
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/184
+#EXTINF:-1,FOOTBALL 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/185
+#EXTINF:-1,BEIN MAX 1
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/234
+#EXTINF:-1,SKYNET SPORTS
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/227
+#EXTINF:-1,UFC PASS 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/211
+#EXTINF:-1,SKYNET SPORTS 1
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/235
+#EXTINF:-1, LA LIGA 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/225
+#EXTINF:-1,VARIETY  2
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/210
+#EXTINF:-1,BEIN SPORTS 6+
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/238
+#EXTINF:-1,SKY SPORTS MAIN EVENT 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/143
+#EXTINF:-1,SKY SPORTS 1
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/233
+#EXTINF:-1,SKY SPORTS 2
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/239
+#EXTINF:-1,SKY SPORTS 3
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/240
+#EXTINF:-1,SKY SPORTS 4
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/241
+#EXTINF:-1,SKY SPORTS NEWS 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/242
+#EXTINF:-1,PREMIER SPORTS BEIN 1
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/243
+#EXTINF:-1,TLC
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/172
 #EXTINF:-1,HBO
-http://43.252.237.182:8000/play/a00i
-#EXTINF:-1,HBO Fam
-http://43.252.237.182:8000/play/a00j
-#EXTINF:-1,HBO Hits
-http://43.252.237.182:8000/play/a00k
-#EXTINF:-1,HBO sig
-http://43.252.237.182:8000/play/a00l
-#EXTINF:-1 tvg-id="Hits.MACAN",HITS HD
-http://43.252.237.182:8000/play/a002
-#EXTINF:-1,HITS Movies
-http://43.252.237.182:8000/play/a00w
-#EXTINF:-1 tvg-id="KPlus.id",K-PLUS HD
-http://43.252.237.182:8000/play/a003
-#EXTINF:-1 tvg-id="KIX.MACAN",KIX HD
-http://43.252.237.182:8000/play/a004
-#EXTINF:-1,Kompas
-http://43.252.237.182:8000/play/a015
-#EXTINF:-1 tvg-id="https://macan.tv/xmltv.php?username=epg&password=epg",My Cinema Asia
-http://43.252.237.182:8000/play/a005
-#EXTINF:-1,My Cinema Europe
-http://43.252.237.182:8000/play/a013
-#EXTINF:-1 tvg-id="mycinemaasia.MACAN",My Cinema HD
-http://43.252.237.182:8000/play/a006
-#EXTINF:-1 tvg-id="Mykidz.MACAN",My Kidz HD
-http://43.252.237.182:8000/play/a007
-#EXTINF:-1,Nat Geo
-http://43.252.237.182:8000/play/a00m
-#EXTINF:-1,Nat Geo Wild
-http://43.252.237.182:8000/play/a00n
-#EXTINF:-1,O Channel
-http://43.252.237.182:8000/play/a00s
-#EXTINF:-1 tvg-id="SonyOneHD.MACAN",ONE HD
-http://43.252.237.182:8000/play/a008
-#EXTINF:-1 tvg-id="TVOne.MACAN",TV One
-http://43.252.237.182:8000/play/a00p
-#EXTINF:-1 tvg-id="Thrill.MACAN",Thrill
-http://43.252.237.182:8000/play/a009
-#EXTINF:-1 tvg-id="TVN.MACAN",tvN HD
-http://43.252.237.182:8000/play/a00a
-#EXTINF:-1 tvg-id="TVNMovies.MACAN",tvN Movies HD
-http://43.252.237.182:8000/play/a00b
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/167
+#EXTINF:-1,CNN 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/165
+#EXTINF:-1,Underground 6
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/164
+#EXTINF:-1,SPENSER CONFIDENTIAL 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/163
+#EXTINF:-1,WARNER TV
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/159
+#EXTINF:-1,PBS KIDS 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/153
+#EXTINF:-1,HIP TV
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/100
+#EXTINF:-1,CHANNELSTV
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/92
+#EXTINF:-1,KIX 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/71
+#EXTINF:-1,HBO FAMILY 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/73
+#EXTINF:-1,ITV E
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/198
+#EXTINF:-1,STAR MOVIES HD
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/222
+#EXTINF:-1,STAR WORLD HD
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/220
+#EXTINF:-1,AXN PLAY 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/221
+#EXTINF:-1,EXTRACTION 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/162
+#EXTINF:-1,THE OLD GUARD
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/161
+#EXTINF:-1,FATE TERMINATOR 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/160
+#EXTINF:-1,MONEY HEIST 1
+http://209.145.58.109:25461/movie/.omohaktv/@omohaktv1442234/177.mp4
+#EXTINF:-1,MONEY HEIST 2
+http://209.145.58.109:25461/movie/.omohaktv/@omohaktv1442234/178.mp4
+#EXTINF:-1,HBO HITS 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/91
+#EXTINF:-1,CINEMAX 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/90
+#EXTINF:-1,CARTOON NETWORK 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/78
+#EXTINF:-1,CINE SKY  1
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/230
+#EXTINF:-1,CINE SKY 2
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/232
+#EXTINF:-1,CINE SKY 3
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/224
+#EXTINF:-1,CINE SKY 4
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/215
+#EXTINF:-1,CINE SKY 5
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/212
+#EXTINF:-1,ADULT erotic 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/181
+#EXTINF:-1,NEKAD NEWS 
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/182
+#EXTINF:-1,LIVE CAM BANG
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/83
+#EXTINF:-1,ADULT XXX1
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/79
+#EXTINF:-1,Extasy/LeoTV HD
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/237
+#EXTINF:-1,BEIN SPORTS  4+
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/231
+#EXTINF:-1,BEIN XTRA
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/218
+#EXTINF:-1,BEIN SPORTS PREMIER 2+
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/244
+#EXTINF:-1,BEIN SPORTS PREMIER 3+
+http://209.145.58.109:25461/.omohaktv/@omohaktv1442234/245
+
+#EXTINF:-1,Bein Movies 
+http://154.16.180.179:25461/S6LxytXatEnz/HsLM5t1Lne/49
